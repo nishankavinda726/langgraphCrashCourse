@@ -5,7 +5,6 @@ from langchain_core.messages import HumanMessage
 from langgraph.graph import MessageGraph, END
 
 load_dotenv()
-print(os.getenv("GOOGLE_API_KEY"))
 
 REFLECT = "reflect"
 GENERATE = "generate"
