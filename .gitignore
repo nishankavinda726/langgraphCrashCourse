@@ -18,7 +18,8 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
-/chatbot.db
+**/chatbot.db
+
 # Logs
 *.log
 
